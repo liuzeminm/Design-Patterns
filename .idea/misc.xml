@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/design-patterns-singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-factory-method/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-abstract-factory/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-builder/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-fly-weight/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-composite/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-template-method/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-command/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-chain-of-responsbility/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-state/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-observer/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-memento/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns-interpreter/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/design-patterns-composite/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

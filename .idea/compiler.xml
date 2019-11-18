@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="design-patterns-memento" />
+        <module name="design-patterns-prototype" />
+        <module name="design-patterns-state" />
+        <module name="design-patterns-observer" />
+        <module name="design-patterns-factory-method" />
+        <module name="design-patterns-bridge" />
+        <module name="design-patterns-builder" />
+        <module name="design-patterns-fly-weight" />
+        <module name="design-patterns-mediator" />
+        <module name="design-patterns-command" />
+        <module name="design-patterns-proxy" />
+        <module name="design-patterns-singleton" />
+        <module name="design-patterns-visitor" />
+        <module name="design-patterns-template-method" />
+        <module name="design-patterns-decorator" />
+        <module name="design-patterns-iterator" />
+        <module name="design-patterns-interpreter" />
+        <module name="design-patterns-facade" />
+        <module name="design-patterns-strategy" />
+        <module name="design-patterns-adapter" />
+        <module name="design-patterns-chain-of-responsbility" />
+        <module name="design-patterns-composite" />
+        <module name="design-patterns-abstract-factory" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design-patterns-abstract-factory" target="1.8" />
+      <module name="design-patterns-adapter" target="1.8" />
+      <module name="design-patterns-bridge" target="1.8" />
+      <module name="design-patterns-builder" target="1.8" />
+      <module name="design-patterns-chain-of-responsbility" target="1.8" />
+      <module name="design-patterns-command" target="1.8" />
+      <module name="design-patterns-composite" target="1.8" />
+      <module name="design-patterns-composite (1)" target="1.8" />
+      <module name="design-patterns-composite (2)" target="1.8" />
+      <module name="design-patterns-decorator" target="1.8" />
+      <module name="design-patterns-facade" target="1.8" />
+      <module name="design-patterns-factory-method" target="1.8" />
+      <module name="design-patterns-fly-weight" target="1.8" />
+      <module name="design-patterns-interpreter" target="1.8" />
+      <module name="design-patterns-iterator" target="1.8" />
+      <module name="design-patterns-mediator" target="1.8" />
+      <module name="design-patterns-memento" target="1.8" />
+      <module name="design-patterns-observer" target="1.8" />
+      <module name="design-patterns-prototype" target="1.8" />
+      <module name="design-patterns-proxy" target="1.8" />
+      <module name="design-patterns-singleton" target="1.8" />
+      <module name="design-patterns-state" target="1.8" />
+      <module name="design-patterns-strategy" target="1.8" />
+      <module name="design-patterns-template-method" target="1.8" />
+      <module name="design-patterns-visitor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="design-patterns-abstract-factory" options="-parameters" />
+      <module name="design-patterns-adapter" options="-parameters" />
+      <module name="design-patterns-bridge" options="-parameters" />
+      <module name="design-patterns-builder" options="-parameters" />
+      <module name="design-patterns-chain-of-responsbility" options="-parameters" />
+      <module name="design-patterns-command" options="-parameters" />
+      <module name="design-patterns-composite" options="-parameters" />
+      <module name="design-patterns-composite (1)" options="-parameters" />
+      <module name="design-patterns-composite (2)" options="-parameters" />
+      <module name="design-patterns-decorator" options="-parameters" />
+      <module name="design-patterns-facade" options="-parameters" />
+      <module name="design-patterns-factory-method" options="-parameters" />
+      <module name="design-patterns-fly-weight" options="-parameters" />
+      <module name="design-patterns-interpreter" options="-parameters" />
+      <module name="design-patterns-iterator" options="-parameters" />
+      <module name="design-patterns-mediator" options="-parameters" />
+      <module name="design-patterns-memento" options="-parameters" />
+      <module name="design-patterns-observer" options="-parameters" />
+      <module name="design-patterns-prototype" options="-parameters" />
+      <module name="design-patterns-proxy" options="-parameters" />
+      <module name="design-patterns-singleton" options="-parameters" />
+      <module name="design-patterns-state" options="-parameters" />
+      <module name="design-patterns-strategy" options="-parameters" />
+      <module name="design-patterns-template-method" options="-parameters" />
+      <module name="design-patterns-visitor" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns.iml" filepath="$PROJECT_DIR$/Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-abstract-factory/design-patterns-abstract-factory.iml" filepath="$PROJECT_DIR$/design-patterns-abstract-factory/design-patterns-abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-adapter/design-patterns-adapter.iml" filepath="$PROJECT_DIR$/design-patterns-adapter/design-patterns-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-bridge/design-patterns-bridge.iml" filepath="$PROJECT_DIR$/design-patterns-bridge/design-patterns-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-builder/design-patterns-builder.iml" filepath="$PROJECT_DIR$/design-patterns-builder/design-patterns-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-chain-of-responsbility/design-patterns-chain-of-responsbility.iml" filepath="$PROJECT_DIR$/design-patterns-chain-of-responsbility/design-patterns-chain-of-responsbility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-command/design-patterns-command.iml" filepath="$PROJECT_DIR$/design-patterns-command/design-patterns-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-composite/design-patterns-composite.iml" filepath="$PROJECT_DIR$/design-patterns-composite/design-patterns-composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-decorator/design-patterns-decorator.iml" filepath="$PROJECT_DIR$/design-patterns-decorator/design-patterns-decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-facade/design-patterns-facade.iml" filepath="$PROJECT_DIR$/design-patterns-facade/design-patterns-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-factory-method/design-patterns-factory-method.iml" filepath="$PROJECT_DIR$/design-patterns-factory-method/design-patterns-factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-fly-weight/design-patterns-fly-weight.iml" filepath="$PROJECT_DIR$/design-patterns-fly-weight/design-patterns-fly-weight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-interpreter/design-patterns-interpreter.iml" filepath="$PROJECT_DIR$/design-patterns-interpreter/design-patterns-interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-iterator/design-patterns-iterator.iml" filepath="$PROJECT_DIR$/design-patterns-iterator/design-patterns-iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-mediator/design-patterns-mediator.iml" filepath="$PROJECT_DIR$/design-patterns-mediator/design-patterns-mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-memento/design-patterns-memento.iml" filepath="$PROJECT_DIR$/design-patterns-memento/design-patterns-memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-observer/design-patterns-observer.iml" filepath="$PROJECT_DIR$/design-patterns-observer/design-patterns-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-prototype/design-patterns-prototype.iml" filepath="$PROJECT_DIR$/design-patterns-prototype/design-patterns-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-proxy/design-patterns-proxy.iml" filepath="$PROJECT_DIR$/design-patterns-proxy/design-patterns-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-singleton/design-patterns-singleton.iml" filepath="$PROJECT_DIR$/design-patterns-singleton/design-patterns-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-state/design-patterns-state.iml" filepath="$PROJECT_DIR$/design-patterns-state/design-patterns-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-strategy/design-patterns-strategy.iml" filepath="$PROJECT_DIR$/design-patterns-strategy/design-patterns-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-template-method/design-patterns-template-method.iml" filepath="$PROJECT_DIR$/design-patterns-template-method/design-patterns-template-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-visitor/design-patterns-visitor.iml" filepath="$PROJECT_DIR$/design-patterns-visitor/design-patterns-visitor.iml" />
+    </modules>
+  </component>
+</project>
